@@ -1,6 +1,6 @@
 ---
 name: Jason E. Stajich, Ph.D.
-startdate: YYYY-MM-DD
+startdate: 2009-01-01
 enddate: YYYY-MM-DD
 image: /static/img/members/Stajich_2019_2.jpg
 # altimage: /static/img/members/Stajich_2019_2.jpg
