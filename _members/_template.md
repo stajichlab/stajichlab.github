@@ -10,7 +10,7 @@ pronouns: they/them/theirs #personal pronouns
 email: username (at) domain.com #Preferred public email address
 scholar: XXXXXXXXXXXX #Google Scholar User ID
 website: https://website.com/
-twitter: username
+twitter: username #Do not add @
 #linkedin: username
 github: username
 orcid: XXXX-XXXX-XXXX-XXXX
